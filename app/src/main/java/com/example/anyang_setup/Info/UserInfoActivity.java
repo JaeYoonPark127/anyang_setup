@@ -254,9 +254,9 @@ public class UserInfoActivity extends AppCompatActivity {
                 {
                     case R.id.home :
                     {
-                        Intent intent = new Intent(UserInfoActivity.this, UserInfoActivity.class);
+                        /*Intent intent = new Intent(UserInfoActivity.this, UserInfoActivity.class);
                         intent.putExtra("userinfo", userinfo);
-                        startActivity(intent);
+                        startActivity(intent);*/
                         break;
                     }
                     case R.id.setting :
